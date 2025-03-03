@@ -18,7 +18,6 @@ public class Movie {
     public void setTitle(String title) {
         movieTitle = title;
     }
-
     public int getMovieLengthInMinutes() {
         return movieLengthInMinutes;
     }
